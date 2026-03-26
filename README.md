@@ -49,7 +49,8 @@ The following AWS EC2 instances were provisioned to support the HA cluster:
 ## Evidence of Deployment
 
 ### AWS EC2 Management Console
-![AWS Console](img/aws_coonsole.png)<img width="1911" height="944" alt="aws_coonsole png" src="https://github.com/user-attachments/assets/5ae1a298-4e94-4628-93d0-02a11677f79d" />
+![AWS Console]<img width="1353" height="632" alt="jwzsjkgewjhxtgukztx" src="https://github.com/user-attachments/assets/fee61db8-5517-4e1d-8a46-02875796ff3c" />
+
 
 
 ### Kubernetes Nodes Status
