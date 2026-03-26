@@ -46,12 +46,16 @@ The following AWS EC2 instances were provisioned to support the HA cluster:
 
 ## 3. Implementation Evidence
 
-### 3.1 Cluster Node Status
+## Evidence of Deployment
 
-The output below confirms that all three master nodes are successfully connected and part of the etcd quorum. Each node shows a **Ready** status, indicating that the HA setup is functioning correctly.
-# Assignment 1: Deployment of a Cloud-Native K3s Cluster on AWS
----
+### AWS EC2 Management Console
+![AWS Console](img/aws_coonsole.png)
 
+### Kubernetes Nodes Status
+![Nodes Status](img/nodes_status.png)
+
+### Kubernetes Pods Status
+![Pods Status](img/pods_status.png)
 ## 4. Reflection
 
 ### 4.1 Skills Gained
