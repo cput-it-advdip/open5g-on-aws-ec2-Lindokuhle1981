@@ -54,11 +54,13 @@ The following AWS EC2 instances were provisioned to support the HA cluster:
 
 
 ### Kubernetes Nodes Status
-![Nodes Status](img/nodes_status.png)<img width="950" height="948" alt="nodes_status png" src="https://github.com/user-attachments/assets/2de92309-d31b-4c1e-aa84-1f798d8e8577" />
+![Nodes Status]<img width="949" height="948" alt="Screenshot 2026-03-26 201826" src="https://github.com/user-attachments/assets/f25a9151-23c9-47bf-a336-816ec336891f" />
+
 
 
 ### Kubernetes Pods Status
-![Pods Status](img/pods_status.png)<img width="951" height="950" alt="pods_status png" src="https://github.com/user-attachments/assets/87d341e5-e360-4474-b739-8e5d0297c9f9" />
+![Pods Status]<img width="957" height="951" alt="Screenshot 2026-03-26 201850" src="https://github.com/user-attachments/assets/8d5d22f1-367b-486e-a8d5-b0e2c1d1653c" />
+
 
 ## 4. Reflection
 
